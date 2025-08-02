@@ -1,4 +1,4 @@
-# FinHive ![Logo](logo(1).png)
+# FinHive ![Logo](logo.png)
 
 An AI-powered platform to take control of your finances. Track expenses, manage budgets, and receive intelligent insights to achieve your financial goals.
 
